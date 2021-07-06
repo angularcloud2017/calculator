@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://deerai.visualstudio.com/6bGH%20Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/angularcloud2017.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://deerai.visualstudio.com/6bGH%20Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=9&branchName=refs%2Fpull%2F2%2Fmerge)
+[![Build Status](https://deerai.visualstudio.com/6bGH%20Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/angularcloud2017.calculator?branchName=master)](https://deerai.visualstudio.com/6bGH%20Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=9&branchName=master)
 
 (https://dev.azure.com/deepakdemo0521/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=9&branchName=master)
 The project contains a simple node.js application that exposes REST APIs
